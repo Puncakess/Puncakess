@@ -1,3 +1,8 @@
+<div align="center">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR6czM0eTczNnNiMTE5dTB4M3B3MWt4cmJpbGU5ZWF2YTA2NjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="300px"  height="300px"/>
+</div>
+
+
 ## 🛤 Sobre
 
 Sou Carlos Leopoldo Kruger, estudante do IFTM - Campus Paracatu, no curso de Análise e Desenvolvimento de Sistemas
